@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MegaSena</string>
+    <string name="enviar">Enviar</string>
+    <string name="boa_sorte">Boa sorte</string>
+    <string name="de_6_a_5">Digite os numeros de 5 a 15</string>
+    <string name="gerar_n_meros">Gerar números</string>
+    <string name="limpar_n_meros">Limpar Números</string>
+</resources>
